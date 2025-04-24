@@ -21,10 +21,4 @@ Build a predictive model to classify transactions as fraudulent or legitimate ba
 - Evaluation: Precision, Recall, F1-Score, ROC-AUC
 - Handling Imbalance: SMOTE, stratified splitting
 
-## How to Run
-```bash
-# Install dependencies
-pip install -r requirements.txt
 
-# Run Jupyter notebook
-jupyter notebook notebooks/fraud_detection.ipynb# Credit-Card-Transactions-Fraud-Detection
